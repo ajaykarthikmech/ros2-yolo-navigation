@@ -7,7 +7,7 @@ from ultralytics import YOLO
 # CONFIGURATION
 # ==================================
 
-CAMERA_URL = "http://10.36.119.212:8080/video"
+CAMERA_URL = "http://IPadress:8080/video"
 
 MODEL_PATH = "yolov8s.pt"
 
