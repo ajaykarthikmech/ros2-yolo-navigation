@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environments
+visionguard_env/
+venv/
+
+# ROS2 Build Files
+build/
+install/
+log/
+
+# YOLO Models
+*.pt
+
+# Datasets
+datasets/
+
+# Videos
+videos/
+
+# VS Code
+.vscode/
+
+# Temporary
+*.tmp
