@@ -1,6 +1,6 @@
 import cv2
 
-url = "http://10.36.119.212:8080/video"
+url = "IPAddress:8080/video"
 
 cap = cv2.VideoCapture(url)
 
